@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a **React Native Developer** with a solid back
 ## 🛠️ Technical Skills
 
 ### **Languages & Frameworks**
-- JavaScript (React Native, React.js, Node.js)
+- JavaScript (React Native,Flutter, React.js, Node.js)
 - PHP (Laravel)
 - Redux/Toolkit
 - Firebase
